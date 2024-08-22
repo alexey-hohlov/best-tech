@@ -1,4 +1,4 @@
-export const BASE_URL = '/mock.json';
+export const BASE_URL = 'mock.json';
 export const LOCAL_CART = 'cart';
 export const LOCAL_FAVORITES = 'favorites';
 
