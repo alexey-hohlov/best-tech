@@ -4,21 +4,21 @@
       "name": "Apple iPhone 11 64 ГБ",
       "price": 32990,
       "id": "0",
-      "imageUrl": "/images/iPhone-11-64.png",
+      "imageUrl": "images/iPhone-11-64.png",
       "description": "Смартфон Apple iPhone 11 64 ГБ"
     },
     {
       "name": "Apple iPhone 11 128 ГБ",
       "price": 37990,
       "id": "1",
-      "imageUrl": "/images/iPhone-11-128.png",
+      "imageUrl": "images/iPhone-11-128.png",
       "description": "Смартфон Apple iPhone 11 128 ГБ"
     },
     {
       "name": "Apple iPhone 11 256 ГБ",
       "price": 54990,
       "id": "2",
-      "imageUrl": "/images/iPhone-11-256.png",
+      "imageUrl": "images/iPhone-11-256.png",
       "description": "Смартфон Apple iPhone 11 256 ГБ"
     },
     {
