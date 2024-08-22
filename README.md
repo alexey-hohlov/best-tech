@@ -4,10 +4,11 @@ Demo online store application that I developed using Vue3, TypeScript and Tailwi
 I used the Composition API, Pinia state-manager, as well as a local JSON file to simulate the backend and api requests.
 In addition, I implemented saving the contents of the cart and favorites to localStorage.
 
-[Here is](https://alexey-hohlov.github.io/auth-forms/) a live demo, deployed on GitHub Pages 🌎
+
+[Here is](https://alexey-hohlov.github.io/best-tech/) a live demo, deployed on GitHub Pages 🌎
 
 <p align="center">
-  <img width="768" alt="screenshot" src="https://github.com/user-attachments/assets/03a3aeb6-8075-4c17-bfb7-20f448317705">
+ <img width="768" alt="screenshot" src="https://github.com/user-attachments/assets/4321c679-82de-4bba-b055-ee708b85d6f5">
 </p>
 
 ## 💻 Technologies
