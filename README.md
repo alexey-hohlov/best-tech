@@ -28,5 +28,5 @@ yarn install
 yarn dev
 ```
 
-Go to [http://localhost:5173](http://localhost:5173) to see result
+Go to [http://localhost:5173](http://localhost:5173/best-tech/) to see result
 
