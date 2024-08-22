@@ -1,4 +1,8 @@
-import { createWebHistory, createRouter } from 'vue-router';
+import {
+  createWebHistory,
+  createRouter,
+  createWebHashHistory,
+} from 'vue-router';
 import {
   HomePage,
   CartPage,
@@ -23,6 +27,7 @@ const routes = [
   { path: ROUTES.PRODUCT.PATH, component: ProductPage },
 ];
 
-const router = createRouter({ history: createWebHistory(), routes });
+// const router = createRouter({ history: createWebHistory(), routes });
+const router = createRouter({ history: createWebHashHistory(), routes });
 
 export default router;
