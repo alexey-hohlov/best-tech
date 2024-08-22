@@ -25,189 +25,189 @@
       "name": "Apple iPhone 12 64 ГБ",
       "price": 40990,
       "id": "3",
-      "imageUrl": "/images/iPhone-12-64.png",
+      "imageUrl": "images/iPhone-12-64.png",
       "description": "Смартфон Apple iPhone 12 64 ГБ"
     },
     {
       "name": "Apple iPhone 12 128 ГБ",
       "price": 45990,
       "id": "4",
-      "imageUrl": "/images/iPhone-12-128.png",
+      "imageUrl": "images/iPhone-12-128.png",
       "description": "Смартфон Apple iPhone 12 128 ГБ"
     },
     {
       "name": "Apple iPhone 12 256 ГБ",
       "price": 53990,
       "id": "5",
-      "imageUrl": "/images/iPhone-12-256.png",
+      "imageUrl": "images/iPhone-12-256.png",
       "description": "Смартфон Apple iPhone 12 256 ГБ"
     },
     {
       "name": "Apple iPhone 13 128 ГБ",
       "price": 55990,
       "id": "6",
-      "imageUrl": "/images/iPhone-13-128.png",
+      "imageUrl": "images/iPhone-13-128.png",
       "description": "Смартфон Apple iPhone 13 128 ГБ"
     },
     {
       "name": "Apple iPhone 13 256 ГБ",
       "price": 68990,
       "id": "7",
-      "imageUrl": "/images/iPhone-13-256.png",
+      "imageUrl": "images/iPhone-13-256.png",
       "description": "Смартфон Apple iPhone 13 256 ГБ"
     },
     {
       "name": "Apple iPhone 13 512 ГБ",
       "price": 76990,
       "id": "8",
-      "imageUrl": "/images/iPhone-13-512.png",
+      "imageUrl": "images/iPhone-13-512.png",
       "description": "Смартфон Apple iPhone 13 512 ГБ"
     },
     {
       "name": "Apple iPhone 13 512 ГБ (PRODUCT)RED",
       "price": 71990,
       "id": "9",
-      "imageUrl": "/images/iPhone-13-512(RED).png",
+      "imageUrl": "images/iPhone-13-512(RED).png",
       "description": "Смартфон Apple iPhone 13 512 ГБ (PRODUCT)RED"
     },
     {
       "name": "Apple MacBook Air 13\" Space Gray (M1 8-Core, GPU 7-Core, 8GB, 256GB)",
       "price": 74990,
       "id": "10",
-      "imageUrl": "/images/MacBook-Air-Gray.png",
+      "imageUrl": "images/MacBook-Air-Gray.png",
       "description": "Ноутбук Apple MacBook Air 13\" Space Gray (M1 8-Core, GPU 7-Core, 8GB, 256GB)"
     },
     {
       "name": "Apple MacBook Air 13\" Pink (M1 8-Core, GPU 7-Core, 8GB, 256GB)",
       "price": 74990,
       "id": "11",
-      "imageUrl": "/images/MacBook-Air-Pink.png",
+      "imageUrl": "images/MacBook-Air-Pink.png",
       "description": "Ноутбук Apple MacBook Air 13\" Pink (M1 8-Core, GPU 7-Core, 8GB, 256GB)"
     },
     {
       "name": "Apple MacBook Air 13\" Silver (M1 8-Core, GPU 7-Core, 8GB, 256GB)",
       "price": 74990,
       "id": "12",
-      "imageUrl": "/images/MacBook-Air-Silver.png",
+      "imageUrl": "images/MacBook-Air-Silver.png",
       "description": "Ноутбук Apple MacBook Air 13\" Silver (M1 8-Core, GPU 7-Core, 8GB, 256GB)"
     },
     {
       "name": "Apple MacBook Pro 16\" Space Gray (M2 Max 12-Core, GPU 38-Core, 32GB, 1TB)",
       "price": 274990,
       "id": "13",
-      "imageUrl": "/images/MacBook-Pro-Gray.png",
+      "imageUrl": "images/MacBook-Pro-Gray.png",
       "description": "Ноутбук Apple MacBook Pro 16\" Space Gray (M2 Max 12-Core, GPU 38-Core, 32GB, 1TB)"
     },
     {
       "name": "Apple MacBook Pro 14\" Silver (M2 Pro 12-Core, GPU 19-Core, 16GB, 1TB)",
       "price": 205990,
       "id": "14",
-      "imageUrl": "/images/MacBook-Pro-Silver.png",
+      "imageUrl": "images/MacBook-Pro-Silver.png",
       "description": "Ноутбук Apple MacBook Pro 14\" Silver (M2 Pro 12-Core, GPU 19-Core, 16GB, 1TB)"
     },
     {
       "name": "Apple iPad Pro 11\", 128 ГБ, Wi-Fi Space Gray (2022)",
       "price": 79990,
       "id": "15",
-      "imageUrl": "/images/iPad-Pro-Gray.png",
+      "imageUrl": "images/iPad-Pro-Gray.png",
       "description": "Планшет Apple iPad Pro 11\", 128 ГБ, Wi-Fi Space Gray (2022)"
     },
     {
       "name": "Apple iPad Pro 11\", 256 ГБ, Wi-Fi Silver (2022)",
       "price": 93990,
       "id": "16",
-      "imageUrl": "/images/iPad-Pro-Silver.png",
+      "imageUrl": "images/iPad-Pro-Silver.png",
       "description": "Планшет Apple iPad Pro 11\", 256 ГБ, Wi-Fi Silver (2022)"
     },
     {
       "name": "Apple iPad mini, 256 ГБ, Wi-Fi Space Gray (2021)",
       "price": 65990,
       "id": "17",
-      "imageUrl": "/images/iPad-Mini-Gray.png",
+      "imageUrl": "images/iPad-Mini-Gray.png",
       "description": "Планшет Apple iPad mini, 256 ГБ, Wi-Fi Space Gray (2021)"
     },
     {
       "name": "Apple iPad mini, 64 ГБ, Wi-Fi Pink (2021)",
       "price": 65990,
       "id": "18",
-      "imageUrl": "/images/iPad-Mini-Pink.png",
+      "imageUrl": "images/iPad-Mini-Pink.png",
       "description": "Планшет Apple iPad mini, 64 ГБ, Wi-Fi Pink (2021)"
     },
     {
       "name": "Apple iPad mini, 256 ГБ, Wi-Fi Cellular Purple (2021)",
       "price": 87990,
       "id": "19",
-      "imageUrl": "/images/iPad-Mini-Purple.png",
+      "imageUrl": "images/iPad-Mini-Purple.png",
       "description": "Планшет Apple iPad mini, 256 ГБ, Wi-Fi Cellular Purple (2021)"
     },
     {
       "name": "Apple iPad Air 13\", 512 ГБ, Wi-Fi Starlight (2024)",
       "price": 109990,
       "id": "20",
-      "imageUrl": "/images/iPad-Air-Starlight.png",
+      "imageUrl": "images/iPad-Air-Starlight.png",
       "description": "Планшет Apple iPad Air 13\", 512 ГБ, Wi-Fi Starlight (2024)"
     },
     {
       "name": "Apple iPad Air 10,9\", 64 ГБ, Wi-Fi Space Gray (2022)",
       "price": 48990,
       "id": "21",
-      "imageUrl": "/images/iPad-Air-Gray.png",
+      "imageUrl": "images/iPad-Air-Gray.png",
       "description": "Планшет Apple iPad Air 10,9\", 64 ГБ, Wi-Fi Space Gray (2022)"
     },
     {
       "name": "Apple iPad Air 10,9\", 256 ГБ, Wi-Fi Pink (2022)",
       "price": 62490,
       "id": "22",
-      "imageUrl": "/images/iPad-Air-Pink.png",
+      "imageUrl": "images/iPad-Air-Pink.png",
       "description": "Планшет Apple iPad Air 10,9\", 256 ГБ, Wi-Fi Pink (2022)"
     },
     {
       "name": "Apple iPad Air 11\", 1 ТБ, Wi-Fi Blue (2024)",
       "price": 119990,
       "id": "23",
-      "imageUrl": "/images/iPad-Air-Blue.png",
+      "imageUrl": "images/iPad-Air-Blue.png",
       "description": "Планшет Apple iPad Air 11\", 1 ТБ, Wi-Fi Blue (2024)"
     },
     {
       "name": "Apple Mac Studio MQH73 (M2 Max 12-Core, GPU 30-Core, 32GB, 512GB)",
       "price": 249990,
       "id": "24",
-      "imageUrl": "/images/Mac-Studio.png",
+      "imageUrl": "images/Mac-Studio.png",
       "description": "Компьютер Apple Mac Studio MQH73 (M2 Max 12-Core, GPU 30-Core, 32GB, 512GB)"
     },
     {
       "name": "Apple Studio Display",
       "price": 219990,
       "id": "25",
-      "imageUrl": "/images/Studio-Display.png",
+      "imageUrl": "images/Studio-Display.png",
       "description": "Монитор Apple Studio Display"
     },
     {
       "name": "Apple iMac 4.5K 24\" Silver (M3 8-Core CPU/10-Core GPU, 8GB, 512Gb) (2023)",
       "price": 199990,
       "id": "26",
-      "imageUrl": "/images/iMac-Silver.png",
+      "imageUrl": "images/iMac-Silver.png",
       "description": "Моноблок Apple iMac 4.5K 24\" Silver (M3 8-Core CPU/10-Core GPU, 8GB, 512Gb) (2023)"
     },
     {
       "name": "Apple iMac 4.5K 24\" Yellow (M3 8-Core CPU/10-Core GPU, 8GB, 512Gb) (2023)",
       "price": 209990,
       "id": "27",
-      "imageUrl": "/images/iMac-Yellow.png",
+      "imageUrl": "images/iMac-Yellow.png",
       "description": "Моноблок Apple iMac 4.5K 24\" Yellow (M3 8-Core CPU/10-Core GPU, 8GB, 512Gb) (2023)"
     },
     {
       "name": "Apple iMac 4.5K 24\" Orange (M3 8-Core CPU/10-Core GPU, 8GB, 512Gb) (2023)",
       "price": 209990,
       "id": "28",
-      "imageUrl": "/images/iMac-Orange.png",
+      "imageUrl": "images/iMac-Orange.png",
       "description": "Моноблок Apple iMac 4.5K 24\" Orange (M3 8-Core CPU/10-Core GPU, 8GB, 512Gb) (2023)"
     },
     {
       "name": "Apple iMac 4.5K 24\" Purple (M1 8-Core CPU/8-Core GPU, 16GB, 1TB) (2021)",
       "price": 238990,
       "id": "29",
-      "imageUrl": "/images/iMac-Purple.png",
+      "imageUrl": "images/iMac-Purple.png",
       "description": "Моноблок Apple iMac 4.5K 24\" Purple (M1 8-Core CPU/8-Core GPU, 16GB, 1TB) (2021)"
     }
   ]
