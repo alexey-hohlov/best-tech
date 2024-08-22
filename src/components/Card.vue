@@ -41,7 +41,7 @@ const goToProduct = () => {
 
 <template>
   <li
-    class="h-96 rounded-2xl bg-zinc-50 border border-slate-200 p-4 flex flex-col gap-2 justify-between hover:-translate-y-2 hover:shadow-xl transition cursor-pointer"
+    class="h-96 rounded-2xl bg-zinc-50 border border-slate-200 p-4 flex flex-col gap-2 justify-between cursor-pointer transition md:hover:-translate-y-2 md:hover:shadow-xl"
     @click="goToProduct"
   >
     <img
