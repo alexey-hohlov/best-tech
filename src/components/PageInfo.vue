@@ -4,7 +4,7 @@ import { BackButton } from '@/components';
 
 <template>
   <div
-    class="w-full py-2 px-12 flex items-center justify-between"
+    class="w-full py-2 px-4 md:px-12 flex items-center justify-between"
   >
     <span class='font-bold text-2xl text-slate-500 select-none'>
       {{ $route.name }}
