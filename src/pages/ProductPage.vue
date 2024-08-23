@@ -120,12 +120,14 @@ onMounted(() => {
 @media screen and (max-width: 768px) {
   .product-wrapper {
     grid-template-columns: 100%;
+    grid-template-rows: 300px auto;
+    gap: 15px;
 
-  img {
-    max-width: 250px;
-    height: auto;
-    justify-self: center;
-  }
+    img {
+      width: 100%;
+      height: 100%;
+      justify-self: center;
+    }
   }
 }
 </style>
