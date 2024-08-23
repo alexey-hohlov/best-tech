@@ -15,7 +15,7 @@ const handleOrder = () => {
 
 <template>
   <div
-    class="flex flex-col gap-4 bg-zinc-50 self-end justify-between justify-self-center w-1/2 min-w-72 min-h-40 outline-dashed outline-offset-2 outline-2 outline-slate-400 p-2 rounded-xl transition hover:outline-sky-500"
+    class="flex flex-col gap-4 w-full md:w-1/2 min-w-72 min-h-40  bg-zinc-50 self-end justify-between justify-self-center outline-dashed outline-offset-2 outline-2 outline-slate-400 p-2 rounded-xl transition hover:outline-sky-500"
   >
     <span class="font-bold text-lg text-center select-none text-slate-600"
       >Детали заказа</span
