@@ -36,14 +36,14 @@ const decrement = () => {
 
 <template>
   <li
-    class="content bg-zinc-50 border border-slate-200 w-full h-44 p-4 rounded-2xl"
+    class="content bg-zinc-50 border border-slate-200 w-full h-auto p-2 md:p-4 rounded-2xl"
   >
     <img
       class="h-28 w-auto object-contain place-self-center sm:h-32"
       :src="product.imageUrl"
       :alt="product.name"
     />
-    <div class="flex flex-col justify-between">
+    <div class="flex flex-col justify-between items-start">
       <span class="text-xl">{{ product.name }}</span>
       <div class="min-h-14 flex flex-col justify-between">
         <Counter
@@ -93,6 +93,7 @@ const decrement = () => {
 @media screen and (max-width: 640px) {
   .content {
     grid-template-columns: 64px auto auto;
+    gap: 10px;
   }
 }
 </style>
