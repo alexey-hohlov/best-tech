@@ -79,9 +79,9 @@ onUnmounted(() => {
               Избранное
             </li>
           </ul>
-          <footer class="p-4 w-full text-xl text-slate-600">
+          <footer class="p-4 w-full text-slate-600 text-sm">
             Общая сумма корзины:
-            <span class="text-black">{{ formatPrice(store.totalPrice) }}</span>
+            <span class="text-black font-bold">{{ formatPrice(store.totalPrice) }}</span>
           </footer>
         </div>
       </Transition>
