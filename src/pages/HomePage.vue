@@ -3,8 +3,10 @@ import { useProductsStore } from '@/store/productsStore';
 import { Card, Input, Select } from '@/components';
 import { EmptyPage } from '@/pages';
 import { SortBy } from '@/types/storeTypes';
+import { useUiStore } from '@/store/uiStore';
 
 const store = useProductsStore();
+const uiStore = useUiStore();
 
 const selectOptions = [
   { name: 'Сортировать по...', value: SortBy.default },
@@ -48,6 +50,6 @@ const handleSort = (event: Event) => {
         :product="item"
       />
     </ul>
-    <EmptyPage v-else message="Ничего не найдено" />
+    <EmptyPage v-else v-if="!uiStore.isLoading" message="Ничего не найдено" />
   </section>
 </template>

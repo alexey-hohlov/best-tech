@@ -11,11 +11,14 @@ const uiStore = useUiStore();
 const store = useProductsStore();
 
 const getProducts = async () => {
+  uiStore.setIsLoading(true);
   try {
     const response = await axios.get(BASE_URL);
     store.setProducts(response.data.products);
   } catch (error) {
     console.error('Error fetching products', error);
+  } finally {
+    uiStore.setIsLoading(false);
   }
 };
 

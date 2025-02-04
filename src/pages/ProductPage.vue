@@ -10,12 +10,15 @@ import { FavoriteIcon, FavoriteSolidIcon } from '@/assets';
 import { Button } from '@/components';
 import { useProductsStore } from '@/store/productsStore';
 import { ROUTES } from '@/constants';
+import { useUiStore } from '@/store/uiStore';
 
+const uiStore = useUiStore();
 const product = ref<IProduct | null>(null);
 const route = useRoute();
 const router = useRouter();
 
 const getProduct = async () => {
+  uiStore.setIsLoading(true);
   const id = route.params.id;
   try {
     const response = await axios.get(BASE_URL);
@@ -23,6 +26,8 @@ const getProduct = async () => {
     product.value = products.find((item: IProduct) => item.id === id) || null;
   } catch (error) {
     console.error('Error fetching products', error);
+  } finally {
+    uiStore.setIsLoading(false);
   }
 };
 
@@ -97,7 +102,7 @@ onMounted(() => {
       </div>
     </div>
   </section>
-  <PageNotFound v-else />
+  <PageNotFound v-else v-if="!uiStore.isLoading" />
 </template>
 
 <style scoped lang="scss">
